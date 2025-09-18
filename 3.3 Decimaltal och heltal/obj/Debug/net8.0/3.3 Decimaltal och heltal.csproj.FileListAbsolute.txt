@@ -1,0 +1,14 @@
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\bin\Debug\net8.0\3.3 Decimaltal och heltal.exe
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\bin\Debug\net8.0\3.3 Decimaltal och heltal.deps.json
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\bin\Debug\net8.0\3.3 Decimaltal och heltal.runtimeconfig.json
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\bin\Debug\net8.0\3.3 Decimaltal och heltal.dll
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\bin\Debug\net8.0\3.3 Decimaltal och heltal.pdb
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\obj\Debug\net8.0\3.3 Decimaltal och heltal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\obj\Debug\net8.0\3.3 Decimaltal och heltal.AssemblyInfoInputs.cache
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\obj\Debug\net8.0\3.3 Decimaltal och heltal.AssemblyInfo.cs
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\obj\Debug\net8.0\3.3 Decimaltal och heltal.csproj.CoreCompileInputs.cache
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\obj\Debug\net8.0\3.3 Decimaltal och heltal.dll
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\obj\Debug\net8.0\refint\3.3 Decimaltal och heltal.dll
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\obj\Debug\net8.0\3.3 Decimaltal och heltal.pdb
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\obj\Debug\net8.0\3.3 Decimaltal och heltal.genruntimeconfig.cache
+F:\Programmering nivå 1\3.3 Decimaltal och heltal\obj\Debug\net8.0\ref\3.3 Decimaltal och heltal.dll

@@ -1,0 +1,14 @@
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\bin\Debug\net8.0\3.4 En saga med två string-variabler.exe
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\bin\Debug\net8.0\3.4 En saga med två string-variabler.deps.json
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\bin\Debug\net8.0\3.4 En saga med två string-variabler.runtimeconfig.json
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\bin\Debug\net8.0\3.4 En saga med två string-variabler.dll
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\bin\Debug\net8.0\3.4 En saga med två string-variabler.pdb
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\obj\Debug\net8.0\3.4 En saga med två string-variabler.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\obj\Debug\net8.0\3.4 En saga med två string-variabler.AssemblyInfoInputs.cache
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\obj\Debug\net8.0\3.4 En saga med två string-variabler.AssemblyInfo.cs
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\obj\Debug\net8.0\3.4 En saga med två string-variabler.csproj.CoreCompileInputs.cache
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\obj\Debug\net8.0\3.4 En saga med två string-variabler.dll
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\obj\Debug\net8.0\refint\3.4 En saga med två string-variabler.dll
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\obj\Debug\net8.0\3.4 En saga med två string-variabler.pdb
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\obj\Debug\net8.0\3.4 En saga med två string-variabler.genruntimeconfig.cache
+F:\Programmering nivå 1\3.4 En saga med två string-variabler\obj\Debug\net8.0\ref\3.4 En saga med två string-variabler.dll
