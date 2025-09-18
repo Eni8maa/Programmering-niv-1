@@ -1,0 +1,14 @@
+F:\Programmering nivå 1\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmering nivå 1\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+F:\Programmering nivå 1\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+F:\Programmering nivå 1\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+F:\Programmering nivå 1\Variables\bin\Debug\net8.0\Variables.exe
+F:\Programmering nivå 1\Variables\bin\Debug\net8.0\Variables.deps.json
+F:\Programmering nivå 1\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+F:\Programmering nivå 1\Variables\bin\Debug\net8.0\Variables.dll
+F:\Programmering nivå 1\Variables\bin\Debug\net8.0\Variables.pdb
+F:\Programmering nivå 1\Variables\obj\Debug\net8.0\Variables.dll
+F:\Programmering nivå 1\Variables\obj\Debug\net8.0\refint\Variables.dll
+F:\Programmering nivå 1\Variables\obj\Debug\net8.0\Variables.pdb
+F:\Programmering nivå 1\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+F:\Programmering nivå 1\Variables\obj\Debug\net8.0\ref\Variables.dll

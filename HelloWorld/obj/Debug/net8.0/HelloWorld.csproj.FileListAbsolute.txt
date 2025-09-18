@@ -1,0 +1,14 @@
+F:\Programmering nivå 1\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+F:\Programmering nivå 1\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+F:\Programmering nivå 1\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+F:\Programmering nivå 1\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+F:\Programmering nivå 1\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+F:\Programmering nivå 1\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmering nivå 1\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+F:\Programmering nivå 1\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+F:\Programmering nivå 1\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+F:\Programmering nivå 1\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+F:\Programmering nivå 1\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+F:\Programmering nivå 1\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+F:\Programmering nivå 1\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+F:\Programmering nivå 1\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

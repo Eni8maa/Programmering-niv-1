@@ -1,0 +1,14 @@
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\Temp.exe
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\Temp.deps.json
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\Temp.runtimeconfig.json
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\Temp.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\Temp.pdb
+F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.AssemblyInfoInputs.cache
+F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.AssemblyInfo.cs
+F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.csproj.CoreCompileInputs.cache
+F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.dll
+F:\Programmering nivå 1\Temp\obj\Debug\net8.0\refint\Temp.dll
+F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.pdb
+F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.genruntimeconfig.cache
+F:\Programmering nivå 1\Temp\obj\Debug\net8.0\ref\Temp.dll
