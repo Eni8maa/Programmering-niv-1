@@ -1,0 +1,14 @@
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\bin\Debug\net8.0\5.2 Skriva ut en talföljd.exe
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\bin\Debug\net8.0\5.2 Skriva ut en talföljd.deps.json
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\bin\Debug\net8.0\5.2 Skriva ut en talföljd.runtimeconfig.json
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\bin\Debug\net8.0\5.2 Skriva ut en talföljd.dll
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\bin\Debug\net8.0\5.2 Skriva ut en talföljd.pdb
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\obj\Debug\net8.0\5.2 Skriva ut en talföljd.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\obj\Debug\net8.0\5.2 Skriva ut en talföljd.AssemblyInfoInputs.cache
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\obj\Debug\net8.0\5.2 Skriva ut en talföljd.AssemblyInfo.cs
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\obj\Debug\net8.0\5.2 Skriva ut en talföljd.csproj.CoreCompileInputs.cache
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\obj\Debug\net8.0\5.2 Skriva ut en talföljd.dll
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\obj\Debug\net8.0\refint\5.2 Skriva ut en talföljd.dll
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\obj\Debug\net8.0\5.2 Skriva ut en talföljd.pdb
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\obj\Debug\net8.0\5.2 Skriva ut en talföljd.genruntimeconfig.cache
+F:\Programmering nivå 1\5.2 Skriva ut en talföljd\obj\Debug\net8.0\ref\5.2 Skriva ut en talföljd.dll
