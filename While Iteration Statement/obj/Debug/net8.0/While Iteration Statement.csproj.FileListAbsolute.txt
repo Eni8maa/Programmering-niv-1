@@ -1,0 +1,14 @@
+F:\Programmering nivå 1\While Iteration Statement\obj\Debug\net8.0\While Iteration Statement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmering nivå 1\While Iteration Statement\obj\Debug\net8.0\While Iteration Statement.AssemblyInfoInputs.cache
+F:\Programmering nivå 1\While Iteration Statement\obj\Debug\net8.0\While Iteration Statement.AssemblyInfo.cs
+F:\Programmering nivå 1\While Iteration Statement\obj\Debug\net8.0\While Iteration Statement.csproj.CoreCompileInputs.cache
+F:\Programmering nivå 1\While Iteration Statement\bin\Debug\net8.0\While Iteration Statement.exe
+F:\Programmering nivå 1\While Iteration Statement\bin\Debug\net8.0\While Iteration Statement.deps.json
+F:\Programmering nivå 1\While Iteration Statement\bin\Debug\net8.0\While Iteration Statement.runtimeconfig.json
+F:\Programmering nivå 1\While Iteration Statement\bin\Debug\net8.0\While Iteration Statement.dll
+F:\Programmering nivå 1\While Iteration Statement\bin\Debug\net8.0\While Iteration Statement.pdb
+F:\Programmering nivå 1\While Iteration Statement\obj\Debug\net8.0\While Iteration Statement.dll
+F:\Programmering nivå 1\While Iteration Statement\obj\Debug\net8.0\refint\While Iteration Statement.dll
+F:\Programmering nivå 1\While Iteration Statement\obj\Debug\net8.0\While Iteration Statement.pdb
+F:\Programmering nivå 1\While Iteration Statement\obj\Debug\net8.0\While Iteration Statement.genruntimeconfig.cache
+F:\Programmering nivå 1\While Iteration Statement\obj\Debug\net8.0\ref\While Iteration Statement.dll
