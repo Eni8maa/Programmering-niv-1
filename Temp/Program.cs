@@ -10,9 +10,4 @@ else if (UserValue == "nej") //Om användarens inmatning är "nej"
 {
     Console.WriteLine("Då stannnar vi inne."); //Skrivs ut om användarens inmatning är "nej"
 }
-else //Om användarens inmatning inte är "ja" eller "nej"
-{
-    Console.WriteLine("Du måste svara ja eller nej!"); //Skrivs ut om användarens inmatning inte är "ja" eller "nej"
-}
-
-Console.ReadLine(); 
+}
