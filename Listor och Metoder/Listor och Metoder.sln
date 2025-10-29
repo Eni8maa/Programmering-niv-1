@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listor och Metoder", "Listor och Metoder.csproj", "{84B1D2FC-B326-4BFF-91D7-EDA284B1C453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B1D2FC-B326-4BFF-91D7-EDA284B1C453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B1D2FC-B326-4BFF-91D7-EDA284B1C453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B1D2FC-B326-4BFF-91D7-EDA284B1C453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B1D2FC-B326-4BFF-91D7-EDA284B1C453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B9F33F-058C-4442-8D29-7D45B3C8BD57}
+	EndGlobalSection
+EndGlobal

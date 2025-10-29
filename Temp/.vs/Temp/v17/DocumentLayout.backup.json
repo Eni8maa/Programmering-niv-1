@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{ADB8E4B8-AB4D-4381-AB24-D38B60D44F86}|Temp.csproj|f:\\programmering niv\u00E5 1\\temp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADB8E4B8-AB4D-4381-AB24-D38B60D44F86}|Temp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB8E4B8-AB4D-4381-AB24-D38B60D44F86}|Temp.csproj|f:\\programmering niv\u00E5 1\\temp\\temp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ADB8E4B8-AB4D-4381-AB24-D38B60D44F86}|Temp.csproj|solutionrelative:temp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Temp",
+              "DocumentMoniker": "F:\\Programmering niv\u00E5 1\\Temp\\Temp.csproj",
+              "RelativeDocumentMoniker": "Temp.csproj",
+              "ToolTip": "F:\\Programmering niv\u00E5 1\\Temp\\Temp.csproj",
+              "RelativeToolTip": "Temp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T20:02:08.466Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Programmering niv\u00E5 1\\Temp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\Programmering niv\u00E5 1\\Temp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "ToolTip": "F:\\Programmering niv\u00E5 1\\Temp\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T16:02:23.076Z",
               "EditorCaption": ""

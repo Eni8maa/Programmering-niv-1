@@ -1,14 +1,62 @@
 F:\Programmering nivå 1\Temp\bin\Debug\net8.0\Temp.exe
-F:\Programmering nivå 1\Temp\bin\Debug\net8.0\Temp.deps.json
-F:\Programmering nivå 1\Temp\bin\Debug\net8.0\Temp.runtimeconfig.json
-F:\Programmering nivå 1\Temp\bin\Debug\net8.0\Temp.dll
-F:\Programmering nivå 1\Temp\bin\Debug\net8.0\Temp.pdb
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\Temp.exe
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\Temp.deps.json
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\Temp.runtimeconfig.json
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\Temp.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\Temp.pdb
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\Enums.NET.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\ExtendedNumerics.BigDecimal.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\MathNet.Numerics.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\NPOI.Core.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\NPOI.OOXML.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\NPOI.OpenXml4Net.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\NPOI.OpenXmlFormats.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\NSax.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\SixLabors.Fonts.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\ZString.dll
+F:\Övning 7 - Algoritmer\Temp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Övning 7 - Algoritmer\Temp\obj\Debug\net8.0\Temp.csproj.AssemblyReference.cache
+F:\Övning 7 - Algoritmer\Temp\obj\Debug\net8.0\Temp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Övning 7 - Algoritmer\Temp\obj\Debug\net8.0\Temp.AssemblyInfoInputs.cache
+F:\Övning 7 - Algoritmer\Temp\obj\Debug\net8.0\Temp.AssemblyInfo.cs
+F:\Övning 7 - Algoritmer\Temp\obj\Debug\net8.0\Temp.csproj.CoreCompileInputs.cache
+F:\Övning 7 - Algoritmer\Temp\obj\Debug\net8.0\Temp.sourcelink.json
+F:\Övning 7 - Algoritmer\Temp\obj\Debug\net8.0\Temp.csproj.Up2Date
+F:\Övning 7 - Algoritmer\Temp\obj\Debug\net8.0\Temp.dll
+F:\Övning 7 - Algoritmer\Temp\obj\Debug\net8.0\refint\Temp.dll
+F:\Övning 7 - Algoritmer\Temp\obj\Debug\net8.0\Temp.pdb
+F:\Övning 7 - Algoritmer\Temp\obj\Debug\net8.0\Temp.genruntimeconfig.cache
+F:\Övning 7 - Algoritmer\Temp\obj\Debug\net8.0\ref\Temp.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\Enums.NET.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\ExtendedNumerics.BigDecimal.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\MathNet.Numerics.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\NPOI.Core.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\NPOI.OOXML.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\NPOI.OpenXml4Net.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\NPOI.OpenXmlFormats.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\NSax.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\SixLabors.Fonts.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\ZString.dll
+F:\Programmering nivå 1\Temp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.csproj.AssemblyReference.cache
 F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.GeneratedMSBuildEditorConfig.editorconfig
 F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.AssemblyInfoInputs.cache
 F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.AssemblyInfo.cs
 F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.csproj.CoreCompileInputs.cache
+F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.sourcelink.json
+F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.csproj.Up2Date
 F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.dll
 F:\Programmering nivå 1\Temp\obj\Debug\net8.0\refint\Temp.dll
 F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.pdb
-F:\Programmering nivå 1\Temp\obj\Debug\net8.0\Temp.genruntimeconfig.cache
-F:\Programmering nivå 1\Temp\obj\Debug\net8.0\ref\Temp.dll

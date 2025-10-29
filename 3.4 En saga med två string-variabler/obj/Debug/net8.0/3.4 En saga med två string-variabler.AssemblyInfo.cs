@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3.4 En saga med två string-variabler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99dcd2cd4c2e9811079ed1e8cd3161544f98322c")]
 [assembly: System.Reflection.AssemblyProductAttribute("3.4 En saga med två string-variabler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3.4 En saga med två string-variabler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
